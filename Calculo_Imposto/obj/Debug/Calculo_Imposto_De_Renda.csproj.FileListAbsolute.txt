@@ -1,0 +1,7 @@
+C:\Users\Bruno\Desktop\C#\Calculo_Imposto_De_Renda\Calculo_Imposto_De_Renda\bin\Debug\Calculo_Imposto_De_Renda.exe.config
+C:\Users\Bruno\Desktop\C#\Calculo_Imposto_De_Renda\Calculo_Imposto_De_Renda\bin\Debug\Calculo_Imposto_De_Renda.exe
+C:\Users\Bruno\Desktop\C#\Calculo_Imposto_De_Renda\Calculo_Imposto_De_Renda\bin\Debug\Calculo_Imposto_De_Renda.pdb
+C:\Users\Bruno\Desktop\C#\Calculo_Imposto_De_Renda\Calculo_Imposto_De_Renda\obj\Debug\Calculo_Imposto_De_Renda.csprojAssemblyReference.cache
+C:\Users\Bruno\Desktop\C#\Calculo_Imposto_De_Renda\Calculo_Imposto_De_Renda\obj\Debug\Calculo_Imposto_De_Renda.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\C#\Calculo_Imposto_De_Renda\Calculo_Imposto_De_Renda\obj\Debug\Calculo_Imposto_De_Renda.exe
+C:\Users\Bruno\Desktop\C#\Calculo_Imposto_De_Renda\Calculo_Imposto_De_Renda\obj\Debug\Calculo_Imposto_De_Renda.pdb
